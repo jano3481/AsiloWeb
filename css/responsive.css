@@ -1,0 +1,104 @@
+@media(max-width:360px){
+    .banner{
+        margin-top: 15px;
+    }
+    
+}
+@media(min-width:480px){
+    .logo{
+        font-size:40px;        
+    }
+    
+    .banner__titulo{
+        font-size: 35px;
+        margin: 5px 0;
+    }
+    
+    .banner__txt{
+        display: block;
+        font-size: 18px;
+        margin: 7px 0;
+    }
+    .info, .cursos{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .info__columna{
+        width: 32%;   
+    }
+    
+    .info__back{
+        width: 49%;   
+    }
+
+    .section__titulo{
+        width: 100%;
+    }
+    
+    .cursos{
+        flex-wrap: wrap;
+        margin-top: 0;
+    }
+    
+    .cursos__columna{
+        width: 48%;
+    }
+    
+   .footer .social [class^="icon-"]{
+    margin: 0 10px;
+    }
+
+}
+@media(min-width:900px){    
+  .contenedor{
+        width: 850px;
+    }
+    .nav{
+        position: static;
+        width: auto;
+    }
+    
+    .menu{
+        display: flex;
+        
+    }
+    
+    .menu__link{
+        background: none;
+        
+    }
+    .icon-menu{
+        display: none;
+    }
+    .select{
+        background: #2F5EA1;
+    }
+}
+
+@media(min-width:1024px){    
+    
+    .contenedor{
+        width: 850px;
+    }
+    .nav{
+        position: static;
+        width: auto;
+    }
+    
+    .menu{
+        display: flex;
+        
+    }
+    
+    .menu__link{
+        background: none;
+        
+    }
+    .icon-menu{
+        display: none;
+    }
+    .select{
+        background: #2F5EA1;
+    }
+}

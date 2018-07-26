@@ -1,0 +1,18 @@
+.footer{
+    background: #333;
+    color: aliceblue;
+    text-align: center;
+}
+
+.footer .social [class^="icon-"]{
+    display:  inline-block;
+    color: #333;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px;
+    background: white;
+    border-radius: 50%;
+    width: 60px;
+    line-height: 40px;
+}
+

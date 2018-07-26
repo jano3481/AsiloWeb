@@ -1,0 +1,29 @@
+.header{  
+    background: #AAA4A3;
+    height: 70px;  
+}
+
+.header .contenedor{
+    background: #AAA4A3;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logo, .icon-menu{
+    margin: 5px;
+}
+
+.icon-menu{
+    display: block;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    /*para el color del icono*/ background: #8F99A7;
+    color: aliceblue;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 5px;
+    margin-left: auto;
+    cursor: pointer;
+}
+

@@ -1,0 +1,33 @@
+.nav{
+    position: absolute;
+    top: 80px;
+    left: -100%;
+    width: 100%;
+    transition: all 0.4s;
+    
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu__link{
+    display: block;
+    padding: 15px;
+    background: #EA8C57;
+    text-decoration: none;
+    color:aliceblue;    
+}
+
+.menu__link:hover{
+    background: #B4ABA6;
+    color: antiquewhite;
+}
+.select{
+    color: aliceblue:
+}
+.mostrar{
+    left: 0%;
+}

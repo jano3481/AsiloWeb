@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+@import url('https://fonts.googleapis.com/css?family=Combo');
+@import url(header.css);
+@import url(menu.css);
+@import url(banner.css);
+@import url(info.css);
+@import url(servicios.css);
+@import url(footer.css);
+@import url(responsive.css);
+
+
+*{
+    box-sizing: border-box;
+    
+}
+
+.contenedor{
+    margin: auto;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    
+}
+
+body,p{    
+    font-family: 'Coming Soon', cursive;
+    margin: 0;
+}
+
+h2,h1{
+    font-family: 'Combo', cursive;
+    letter-spacing: 4px;
+    
+}
+
+.section__titulo{
+    text-align: center;
+    font-size: 40px;
+    color: #333;    
+}
+
+
+
+
+

@@ -1,0 +1,13 @@
+.banner{
+    position: relative;
+    z-index: -1000;
+}
+
+.banner .contenedot{
+    position: absolute;
+    top: 60%;
+}
+
+.banner__txt{
+    display: none;
+}

@@ -1,0 +1,11 @@
+.seccion
+{
+    margin-top:32px;
+}
+
+.jumbotron{
+    background: url('img/ute-mision.jpg');
+	width:400;
+	
+    color:#962205;
+}

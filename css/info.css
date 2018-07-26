@@ -1,0 +1,15 @@
+.info__columna{
+    background: #D9782D;
+    color: #fff;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+.info__back{
+    background: #D2D827;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.info__titulo{
+    color: aliceblue;
+}
