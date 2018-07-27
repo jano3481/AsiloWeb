@@ -20,3 +20,6 @@ Homestead.json
 .rocketeer/
 
 bower_components/
+/.idea
+
+\.vs/

@@ -1,0 +1,21 @@
+{
+  "name": "AsiloWeb",
+  "homepage": "https://github.com/jano3481/AsiloWeb",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^5.2.0",
+    "popper.js": "^1.14.3"
+  }
+}

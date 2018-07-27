@@ -41,6 +41,10 @@ h2,h1{
     color: #333;    
 }
 
+.main{
+    min-height: 800px !important;
+}
+
 
 
 

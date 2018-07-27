@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Mi Segundo Hogar</title>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">  
-<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+<link rel="icon" type="image/png" href="favicon.ico"/>
 <link rel="stylesheet" href="css/estilos.css">
 <link rel="stylesheet" href="css/fontello.css">
 </head>
@@ -16,10 +16,10 @@
             <span class="icon-menu" id="btn-menu"></span>
             <nav class="nav" id="nav">
                 <ul class="menu">
-                    <li class="menu_item"><a class="menu__link " href="Index.html">Inicio</a></li>         
+                    <li class="menu_item"><a class="menu__link " href="Index.php">Inicio</a></li>
                     <li class="menu_item"><a class="menu__link select" href="#">Información</a></li>      
-                    <li class="menu_item"><a class="menu__link " href="Contactanos.html">Contactanos</a></li>    
-                    <li class="menu_item"><a class="menu__link " href="login.html">Login</a></li>           
+                    <li class="menu_item"><a class="menu__link " href="Contactanos.php">Contactanos</a></li>
+                    <li class="menu_item"><a class="menu__link " href="Inicio.php">Login</a></li>
                 </ul>
             </nav>        
         </div>        
